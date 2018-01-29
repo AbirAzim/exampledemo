@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "authors": [
+    "badhon <badhonkhanbk007@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
